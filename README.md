@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## hzero常用技巧及踩雷合集
 
 You can use the [editor on GitHub](https://github.com/FredaMJ95/hzero-bugset/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
